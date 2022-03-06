@@ -3,7 +3,6 @@
  */
 
 export default {
-  cacheDirectory: '/private/var/folders/bf/nj3kx3dj58x6s660yfgwqx7r0000gn/T/jest_dx',
   clearMocks: true,
   collectCoverage: false,
   coveragePathIgnorePatterns: ['/node_modules/'],

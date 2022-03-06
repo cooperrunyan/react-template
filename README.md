@@ -6,8 +6,8 @@ Starter project in react. It uses TypeScript, Scss, Vite, Jest, Prettier, and ES
 
 ```bash
 $ mv .env.example .env # rename env file
-$ npm install --force # eslint causes errors without the force flag
-$ npm run dev # starts vite server
+$ npm install
+$ npm run dev
 ```
 
 ## Jest

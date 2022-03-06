@@ -1,3 +1,9 @@
+import { Banner } from '~/components/Banner';
+
 export function App() {
-  return <p>Hello world</p>;
+  return (
+    <>
+      <Banner>{{ title: 'Hello world' }}</Banner>
+    </>
+  );
 }

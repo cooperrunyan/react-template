@@ -1,6 +1,6 @@
 # ⚡ React Template
 
-Starter project in react. It uses TypeScript, Scss, Vite, Jest, Prettier, and ESLint. You don't ***need*** to know all of these technologies to use it.
+Starter project in react. It uses TypeScript, Scss, Vite, Jest, Prettier, and ESLint. You don't **_need_** to know all of these technologies to use it.
 
 ## Setup
 
